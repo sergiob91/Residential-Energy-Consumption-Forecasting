@@ -1,0 +1,4 @@
+usuario;modelo;prediccion_enero_2025
+10;RF;214,18
+10;RF_Lag;195,14
+10;RF_Opt;192,29
